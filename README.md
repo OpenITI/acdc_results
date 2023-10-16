@@ -1,1 +1,1 @@
-# acdc_results
+# Experimental Results for Automatic Collation for Diversifying Corpora (ACDC)
